@@ -1,0 +1,36 @@
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css');
+h1, p {
+    font-family: Lato;
+}
+.low-price{
+    color: rgb(217, 64, 64);
+}
+.high-price{
+    color: rgb(0, 158, 115);
+}
+.token-icon{
+    width: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px
+}
+.token-main-icon{
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+    margin-bottom: 15px
+}
+.history-table{
+    width: 600px;
+
+}
+.history-table h2{
+    font-size: 20px
+}
+.history-container{
+    margin-left: 50px;
+}
+.history-detail-table{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto
+}
